@@ -9,7 +9,7 @@
 "урод","уродище","urod","yrod","yrodishe","yrodiche","freak",
 "гнид","gnida","nit",
 "суки","сукин сын","сын сук","sykin sin","sukin sin","sin syki","syn suki","sin suki","son of a bitch","сын","syn","sin",
-"шлюх","прошмандовка","шалав","whore","shluhi","shluha",
+"шлюх","прошмандовка","шалав","whore","shlu","shly",
 "бляд","блядот","блядь","бледота","blyadina","blyadiny","blyadota","bled",
 "ебл","ебень","eben'","eben","eblan",
 "хуесос","huesos","hyesos","xyesos","xuesos",
@@ -72,7 +72,7 @@
 "отпиз","otpizdim","otpizhy","otpizdyat",
 "пиздак","пиздюк","pizdyak","pizdak","pizduk","pizdyk",
 "собак","пес","пёс","псин","псы","psina","sobaka","sobaki","pes","psy","psina","psini","dog",
-"мам","мать","отец","папа","mom","mama","mat'","mat","otec","father","dad",
+"мам","мать","отец","папа","mom","mam","mat'","mat","otec","father","dad",
 "поплач","плак","плач","poplach","poplach'","plak","plakay","plakai","plach","plach'",
 "школ","шкил","shkila","shkolnik","shkolota","shkola","shkoly",
 "слеп","slepoy","slepoi",
@@ -101,13 +101,15 @@
 "клоун","clown","cloyn","cloun",
 "рак","rak","rack",
 "прыщ","прещ","prish","presh",
-"фрик","frik","freak","freac"
+"фрик","frik","freak","freac",
+"конч","konch","kon4"
   ],
 
   "Расизм/Дискриминация": ["ниггер","нигга","нигер","нигeр","нигa","негр","negr","nigger","nigga","n1gger","nigg3r","nigg@r","niggar","niggerr","n1gga","niga","niger",
 "чурк","churka","churki",
 "хохол","hohol","хохл",
 "хач","hach","khach",
+"узкогл","yzkogl","uzkogl","yskogl","uskogl",
 "черножоп","chernozhopy","chernozhopyy","chernozhopiy"
   ]
 }
