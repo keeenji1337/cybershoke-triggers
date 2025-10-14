@@ -74,7 +74,7 @@
       "отпиз","otpizdim","otpizhy","otpizdyat",
       "пиздак","пиздюк","pizdyak","pizdak","pizduk","pizdyk",
       "собак","пес","пёс","псин","псы","psina","sobaka","sobaki","pes","psy","psina","psini","dog",
-      "мам","мать","мату","мате","отец","папа","mom","mam","mat'","mat","otec","father","dad",
+      "мам","мать","мату","мате","отец","папа","mom","mam","mat'","mat","otec","father","dad","родных","rodnih","rodnyh",
       "поплач","плак","плач","poplach","poplach'","plak","plakay","plakai","plach","plach'",
       "школ","шкил","shkila","shkolnik","shkolota","shkola","shkoly",
       "слеп","slepoy","slepoi",
@@ -96,7 +96,7 @@
       "крыс","kris","krys",
       "сыкун","ссыкун","ssikyn","sikyn",
       "ватник","ват","vatnik","watnik","vatnyk","watnyk",
-      "пизда тебе","тебе пизда","тебе пиздец","пиздец тебе","tebe pizda","pizda tebe","tebe pizdec","pizdec tebe",
+      "пизда тебе","тебе пизда","тебе пиздец","пиздец тебе","tebe pizda","pizda tebe","tebe pizdec","pizdec tebe","пиздош","pizdosh",
       "рукож","рукаж","rykozhop","rykazhop",
       "рот","rot",
       "легк","legk",
@@ -135,7 +135,8 @@
       "шароеб","шараеб","шароёб","шараёб","sharoeb","sharaeb","waraeb","waroeb",
       "лох","лош","lox","losh","lowar",
       "резал","реzал","rezal","zarezh",
-      "косой","kosoy","kosoi"
+      "косой","kosoy","kosoi",
+      "жертва","zhertva"
     ],
     "Расизм/Дискриминация": [
       "ниггер","нигга","нигер","нигeр","нигa","негр","negr","nigger","nigga","n1gger","nigg3r","nigg@r","niggar","niggerr","n1gga","niga","niger",
