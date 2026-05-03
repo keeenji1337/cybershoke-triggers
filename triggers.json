@@ -80,7 +80,7 @@
       "отпиз","otpizdim","otpizhy","otpizdyat",
       "пиздак","пиздюк","pizdyak","pizdak","pizduk","pizdyk",
       "собак","пес","пёс","псин","псы","psina","sobaka","sobaki","pes","psy","psina","psini","dog",
-      "мам","мать","мату","мате","безмам","без мам","отец","батя","папа","семью","семья","mom","mam","mat'","mat","otec","father","dad","родных","rodnih","rodnyh","family","bezmam","bez mam",
+      "мам","мать","мату","мате","безмам","без мам","отец","батя","папа","семью","семья","mom","moth","mam","mat'","mat","otec","father","dad","родных","rodnih","rodnyh","family","bezmam","bez mam",
       "поплач","плак","плач","poplach","poplach'","plak","plach","plach'",
       "школ","шкил","shkila","shkolnik","shkolota","shkola","shkoly",
       "слеп","slepoy","slepoi",
@@ -146,7 +146,9 @@
       "ног","nog",
       "иша","isha","iwa",
       "инвали","invali","invaly",
-      "бед","bed","бид","bid"
+      "бед","bed","бид","bid",
+      "дит","ребен","ребён","dityo","dytio","ditiyo","reben","kid",
+      "рак","рачел","rak","rachel","cancer"
     ],
     "Расизм/Дискриминация": [
       "ниггер","нигга","нигер","нигa","негр","negr","nigger","nigga","n1gger","nigg3r","nigg@r","niggar","niggerr","n1gga","niga","niger",
